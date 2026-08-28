@@ -1,0 +1,6 @@
+{
+  "name": "Fizika Kihívás",
+  "description": "Interaktív fizika feladatmegoldó és rangsor alkalmazás Supabase háttérrel és biztonságos pontszámítással.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
